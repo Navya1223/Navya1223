@@ -8,9 +8,9 @@ Data Analyst and Power Platform developer, studying for an M.Sc. in Information 
 
 ### Tools
 
-**Data & BI:** Power BI (DAX) · Excel · SQL · Python (pandas, NumPy, Matplotlib, Seaborn)
-**Power Platform:** Power Apps · Power Automate · Dataverse · SharePoint · Copilot Studio
-**Cloud & ML:** AWS (S3, Lambda, Glue, Athena) · scikit-learn · TensorFlow / Keras
+- **Data & BI:** Power BI (DAX) · Excel · SQL · Python (pandas, NumPy, Matplotlib, Seaborn)
+- **Power Platform:** Power Apps · Power Automate · Dataverse · SharePoint · Copilot Studio
+- **Cloud & ML:** AWS (S3, Lambda, Glue, Athena) · scikit-learn · TensorFlow / Keras
 
 ### Featured projects
 
