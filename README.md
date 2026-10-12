@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/navya-geethika-namburi-11b68325a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/navya-geethika-namburi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:navyan1223@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email"></a>&nbsp;
   <a href="https://mavenanalytics.io/profile/NavyaGeethika-Namburi/202710918"><img src="https://img.shields.io/badge/Maven_Analytics-1E88E5?style=for-the-badge" alt="Maven Analytics portfolio"></a>
 </p>
@@ -62,4 +62,4 @@
 | Data Analyst | **KheyDigit** · 2023–24 | Analysed a year of retail sales data; recommendations adopted by the store owner |
 | M.Sc. research project | **TH OWL** · 2025–26 | LiDAR–camera calibration and sensor fusion for the MONOCAB autonomous rail vehicle |
 
-<p align="center"><sub>Let's connect on <a href="https://www.linkedin.com/in/navya-geethika-namburi-11b68325a">LinkedIn</a> or at navyan1223@gmail.com</sub></p>
+<p align="center"><sub>Let's connect on <a href="https://www.linkedin.com/in/navya-geethika-namburi">LinkedIn</a> or at navyan1223@gmail.com</sub></p>
